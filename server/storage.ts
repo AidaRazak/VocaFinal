@@ -62,7 +62,15 @@ export class DatabaseStorage implements IStorage {
     const ref = db.collection('practiceSessions').doc();
     await ref.set({ ...sessionData, createdAt: new Date() });
     const doc = await ref.get();
-    return { id: ref.id, ...doc.data() } as PracticeSession;
+    const data = doc.data() || {};
+    return {
+      id: ref.id,
+      userId: data.userId || '',
+      wordPracticed: data.wordPracticed || '',
+      accuracyScore: data.accuracyScore ?? null,
+      feedback: data.feedback ?? null,
+      createdAt: data.createdAt ? new Date(data.createdAt) : null,
+    };
   }
 
   async getUserPracticeSessions(userId: string, limit = 10): Promise<PracticeSession[]> {
@@ -71,7 +79,17 @@ export class DatabaseStorage implements IStorage {
       .orderBy('createdAt', 'desc')
       .limit(limit)
       .get();
-    return snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as PracticeSession));
+    return snapshot.docs.map(doc => {
+      const data = doc.data() || {};
+      return {
+        id: doc.id,
+        userId: data.userId || '',
+        wordPracticed: data.wordPracticed || '',
+        accuracyScore: data.accuracyScore ?? null,
+        feedback: data.feedback ?? null,
+        createdAt: data.createdAt ? new Date(data.createdAt) : null,
+      };
+    });
   }
 }
 
