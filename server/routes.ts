@@ -11,6 +11,11 @@ import { promisify } from 'util';
 const finished = promisify(stream.finished);
 
 export async function registerRoutes(app: Express): Promise<Server> {
+  // Root route for health check and Railway 404 prevention
+  app.get('/', (req, res) => {
+    res.send('Hello from Voca!');
+  });
+
   // Auth middleware
   // await setupAuth(app); // Removed Replit Auth
 
