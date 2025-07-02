@@ -258,7 +258,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
       try {
         const assessment = await assessPronunciationWithAzure(audioBuffer, intendedBrand);
         // Use phoneme/word-level scores for more realistic scoring
-        let phonemeScores = [];
+        let phonemeScores: number[] = [];
         if (assessment.words && assessment.words.length > 0) {
           phonemeScores = assessment.words.flatMap(word => word.phonemes.map(p => p.accuracyScore));
         }
@@ -278,11 +278,27 @@ export async function registerRoutes(app: Express): Promise<Server> {
         });
       } catch (azureError) {
         console.error('Azure Pronunciation Assessment Error:', azureError);
-        return res.status(500).json({ error: 'Azure Pronunciation analysis failed', details: azureError.message || azureError });
+        let errorMessage = 'Unknown error';
+        if (azureError instanceof Error) {
+          errorMessage = azureError.message;
+        } else if (typeof azureError === 'object' && azureError && 'message' in azureError) {
+          errorMessage = (azureError as any).message;
+        } else if (typeof azureError === 'string') {
+          errorMessage = azureError;
+        }
+        return res.status(500).json({ error: 'Azure Pronunciation analysis failed', details: errorMessage });
       }
     } catch (error) {
       console.error('Pronunciation analysis route error:', error);
-      return res.status(500).json({ error: 'Pronunciation analysis failed', details: error.message || error });
+      let errorMessage = 'Unknown error';
+      if (error instanceof Error) {
+        errorMessage = error.message;
+      } else if (typeof error === 'object' && error && 'message' in error) {
+        errorMessage = (error as any).message;
+      } else if (typeof error === 'string') {
+        errorMessage = error;
+      }
+      return res.status(500).json({ error: 'Pronunciation analysis failed', details: errorMessage });
     }
   });
 
