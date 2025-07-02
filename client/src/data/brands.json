@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "Tesla",
+    "phonemes": "tee-eh-ss-ell-ah",
+    "country": "USA",
+    "description": "Tesla is an American electric vehicle and clean energy company.",
+    "founded": "2003",
+    "pronunciation": "TESS-lah"
+  },
+  {
+    "name": "BMW",
+    "phonemes": "bee-em-double-u",
+    "country": "Germany",
+    "description": "BMW is a German multinational company which produces luxury vehicles and motorcycles.",
+    "founded": "1916",
+    "pronunciation": "BEE-em-DOUBLE-yoo"
+  },
+  {
+    "name": "Toyota",
+    "phonemes": "toh-yoh-tah",
+    "country": "Japan",
+    "description": "Toyota is a Japanese multinational automotive manufacturer.",
+    "founded": "1937",
+    "pronunciation": "toy-YO-tah"
+  },
+  {
+    "name": "Ford",
+    "phonemes": "f-aw-r-d",
+    "country": "USA",
+    "description": "Ford Motor Company is an American multinational automaker.",
+    "founded": "1903",
+    "pronunciation": "FORD"
+  },
+  {
+    "name": "Honda",
+    "phonemes": "h-on-dah",
+    "country": "Japan",
+    "description": "Honda is a Japanese public multinational conglomerate manufacturer of automobiles.",
+    "founded": "1946",
+    "pronunciation": "HON-dah"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "phonemes": "mur-say-deez benz",
+    "country": "Germany",
+    "description": "Mercedes-Benz is a German global automobile marque and a division of Daimler AG.",
+    "founded": "1926",
+    "pronunciation": "mer-SAY-deez BENTS"
+  },
+  {
+    "name": "Audi",
+    "phonemes": "ow-dee",
+    "country": "Germany",
+    "description": "Audi is a German automotive manufacturer of luxury vehicles.",
+    "founded": "1909",
+    "pronunciation": "OW-dee"
+  },
+  {
+    "name": "Hyundai",
+    "phonemes": "h-yun-day",
+    "country": "South Korea",
+    "description": "Hyundai is a South Korean multinational automotive manufacturer.",
+    "founded": "1967",
+    "pronunciation": "HUN-day"
+  },
+  {
+    "name": "Kia",
+    "phonemes": "kee-ah",
+    "country": "South Korea",
+    "description": "Kia Corporation is a South Korean multinational automotive manufacturer.",
+    "founded": "1944",
+    "pronunciation": "KEE-ah"
+  },
+  {
+    "name": "Nissan",
+    "phonemes": "nee-san",
+    "country": "Japan",
+    "description": "Nissan is a Japanese multinational automobile manufacturer.",
+    "founded": "1933",
+    "pronunciation": "NEE-san"
+  },
+  {
+    "name": "Volkswagen",
+    "phonemes": "folks-vah-gun",
+    "country": "Germany",
+    "description": "Volkswagen is a German motor vehicle manufacturer.",
+    "founded": "1937",
+    "pronunciation": "FOLKS-vah-gun"
+  },
+  {
+    "name": "Chevrolet",
+    "phonemes": "shev-ro-lay",
+    "country": "USA",
+    "description": "Chevrolet is an American automobile division of General Motors.",
+    "founded": "1911",
+    "pronunciation": "SHEV-ro-LAY"
+  },
+  {
+    "name": "Porsche",
+    "phonemes": "por-shuh",
+    "country": "Germany",
+    "description": "Porsche is a German automobile manufacturer specializing in high-performance sports cars.",
+    "founded": "1931",
+    "pronunciation": "POR-shuh"
+  },
+  {
+    "name": "Ferrari",
+    "phonemes": "feh-rah-ree",
+    "country": "Italy",
+    "description": "Ferrari is an Italian luxury sports car manufacturer.",
+    "founded": "1939",
+    "pronunciation": "feh-RAH-ree"
+  },
+  {
+    "name": "Lamborghini",
+    "phonemes": "lam-bor-ghee-nee",
+    "country": "Italy",
+    "description": "Lamborghini is an Italian brand and manufacturer of luxury sports cars and SUVs.",
+    "founded": "1963",
+    "pronunciation": "lam-bor-GEE-nee"
+  },
+  {
+    "name": "Subaru",
+    "phonemes": "soo-bah-roo",
+    "country": "Japan",
+    "description": "Subaru is the automobile manufacturing division of Japanese transportation conglomerate.",
+    "founded": "1953",
+    "pronunciation": "soo-BAH-roo"
+  },
+  {
+    "name": "Mazda",
+    "phonemes": "mahz-dah",
+    "country": "Japan",
+    "description": "Mazda is a Japanese multinational automaker.",
+    "founded": "1920",
+    "pronunciation": "MAHZ-dah"
+  },
+  {
+    "name": "Volvo",
+    "phonemes": "vol-voh",
+    "country": "Sweden",
+    "description": "Volvo is a Swedish multinational manufacturing company.",
+    "founded": "1927",
+    "pronunciation": "VOL-voh"
+  },
+  {
+    "name": "Jaguar",
+    "phonemes": "jag-yoo-ahr",
+    "country": "UK",
+    "description": "Jaguar is the luxury vehicle brand of Jaguar Land Rover.",
+    "founded": "1935",
+    "pronunciation": "JAG-you-ar"
+  },
+  {
+    "name": "Peugeot",
+    "phonemes": "puh-zhoh",
+    "country": "France",
+    "description": "Peugeot is a French automotive manufacturer.",
+    "founded": "1810",
+    "pronunciation": "puh-ZHOH"
+  },
+  {
+    "name": "Proton",
+    "phonemes": "pro-ton",
+    "country": "Malaysia",
+    "description": "Proton is Malaysia's first national car manufacturer.",
+    "founded": "1983",
+    "pronunciation": "PRO-ton"
+  },
+  {
+    "name": "Perodua",
+    "phonemes": "peh-roh-doo-ah",
+    "country": "Malaysia",
+    "description": "Perodua is Malaysia's second national car manufacturer.",
+    "founded": "1993",
+    "pronunciation": "peh-ROH-doo-ah"
+  },
+  {
+    "name": "Lexus",
+    "phonemes": "lek-sus",
+    "country": "Japan",
+    "description": "Lexus is the luxury vehicle division of Toyota.",
+    "founded": "1989",
+    "pronunciation": "LEK-sus"
+  },
+  {
+    "name": "Mitsubishi",
+    "phonemes": "mit-soo-bee-shee",
+    "country": "Japan",
+    "description": "Mitsubishi Motors is a Japanese multinational automotive manufacturer.",
+    "founded": "1970",
+    "pronunciation": "mit-soo-BEE-shee"
+  },
+  {
+    "name": "Suzuki",
+    "phonemes": "soo-zoo-kee",
+    "country": "Japan",
+    "description": "Suzuki is a Japanese multinational corporation specializing in automobiles and motorcycles.",
+    "founded": "1909",
+    "pronunciation": "soo-ZOO-kee"
+  },
+  {
+    "name": "Isuzu",
+    "phonemes": "ee-soo-zoo",
+    "country": "Japan",
+    "description": "Isuzu is a Japanese commercial vehicle and diesel engine manufacturing company.",
+    "founded": "1916",
+    "pronunciation": "ee-SOO-zoo"
+  },
+  {
+    "name": "Daihatsu",
+    "phonemes": "dai-hat-soo",
+    "country": "Japan",
+    "description": "Daihatsu is a Japanese manufacturer of cars, well known for its smaller models.",
+    "founded": "1907",
+    "pronunciation": "dai-HAT-soo"
+  },
+  {
+    "name": "Chery",
+    "phonemes": "cheh-ree",
+    "country": "China",
+    "description": "Chery is a Chinese automobile manufacturer.",
+    "founded": "1997",
+    "pronunciation": "CHEH-ree"
+  },
+  {
+    "name": "Geely",
+    "phonemes": "jee-lee",
+    "country": "China",
+    "description": "Geely is a Chinese multinational automotive company.",
+    "founded": "1986",
+    "pronunciation": "JEE-lee"
+  },
+  {
+    "name": "Great Wall",
+    "phonemes": "grate wall",
+    "country": "China",
+    "description": "Great Wall Motors is a Chinese automobile manufacturer.",
+    "founded": "1984",
+    "pronunciation": "GRATE wall"
+  },
+  {
+    "name": "BYD",
+    "phonemes": "bee-why-dee",
+    "country": "China",
+    "description": "BYD is a Chinese manufacturer of automobiles, battery-powered bicycles, buses, and trucks.",
+    "founded": "1995",
+    "pronunciation": "BEE-WHY-DEE"
+  },
+  {
+    "name": "MINI",
+    "phonemes": "min-ee",
+    "country": "UK",
+    "description": "MINI is a British automotive marque, owned by BMW.",
+    "founded": "1959",
+    "pronunciation": "MIN-ee"
+  },
+  {
+    "name": "Land Rover",
+    "phonemes": "land roh-ver",
+    "country": "UK",
+    "description": "Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles.",
+    "founded": "1948",
+    "pronunciation": "LAND ROH-ver"
+  },
+  {
+    "name": "Renault",
+    "phonemes": "reh-noh",
+    "country": "France",
+    "description": "Renault is a French multinational automobile manufacturer.",
+    "founded": "1899",
+    "pronunciation": "reh-NOH"
+  },
+  {
+    "name": "Citroën",
+    "phonemes": "see-troh-en",
+    "country": "France",
+    "description": "Citroën is a French automobile manufacturer.",
+    "founded": "1919",
+    "pronunciation": "SEE-troh-en"
+  },
+  {
+    "name": "Fiat",
+    "phonemes": "fee-aht",
+    "country": "Italy",
+    "description": "Fiat is an Italian automobile manufacturer.",
+    "founded": "1899",
+    "pronunciation": "FEE-aht"
+  },
+  {
+    "name": "Alfa Romeo",
+    "phonemes": "al-fah roh-may-oh",
+    "country": "Italy",
+    "description": "Alfa Romeo is an Italian luxury car manufacturer.",
+    "founded": "1910",
+    "pronunciation": "AL-fah roh-MAY-oh"
+  },
+  {
+    "name": "Skoda",
+    "phonemes": "shko-dah",
+    "country": "Czech Republic",
+    "description": "Škoda Auto is a Czech automobile manufacturer.",
+    "founded": "1895",
+    "pronunciation": "SHKO-dah"
+  },
+  {
+    "name": "Seat",
+    "phonemes": "say-aht",
+    "country": "Spain",
+    "description": "SEAT is a Spanish automobile manufacturer.",
+    "founded": "1950",
+    "pronunciation": "SAY-aht"
+  },
+  {
+    "name": "Saab",
+    "phonemes": "sahb",
+    "country": "Sweden",
+    "description": "Saab Automobile was a manufacturer of automobiles founded in Sweden.",
+    "founded": "1945",
+    "pronunciation": "SAHB"
+  },
+  {
+    "name": "Smart",
+    "phonemes": "smart",
+    "country": "Germany",
+    "description": "Smart is a German automotive marque and division of Daimler AG.",
+    "founded": "1994",
+    "pronunciation": "SMART"
+  },
+  {
+    "name": "Haval",
+    "phonemes": "hah-vahl",
+    "country": "China",
+    "description": "Haval is an automotive marque owned by the Chinese automaker Great Wall Motors.",
+    "founded": "2013",
+    "pronunciation": "HAH-vahl"
+  },
+  {
+    "name": "Infiniti",
+    "phonemes": "in-fin-i-tee",
+    "country": "Japan",
+    "description": "Infiniti is the luxury vehicle division of the Japanese automaker Nissan.",
+    "founded": "1989",
+    "pronunciation": "in-FIN-i-tee"
+  },
+  {
+    "name": "Genesis",
+    "phonemes": "jen-uh-sis",
+    "country": "South Korea",
+    "description": "Genesis is the luxury vehicle division of Hyundai.",
+    "founded": "2015",
+    "pronunciation": "JEN-uh-sis"
+  },
+  {
+    "name": "SsangYong",
+    "phonemes": "sang-yong",
+    "country": "South Korea",
+    "description": "SsangYong Motor Company is a South Korean automobile manufacturer.",
+    "founded": "1954",
+    "pronunciation": "SANG-yong"
+  },
+  {
+    "name": "Tata",
+    "phonemes": "tah-tah",
+    "country": "India",
+    "description": "Tata Motors is an Indian multinational automotive manufacturing company.",
+    "founded": "1945",
+    "pronunciation": "TAH-tah"
+  },
+  {
+    "name": "Mahindra",
+    "phonemes": "mah-hin-drah",
+    "country": "India",
+    "description": "Mahindra & Mahindra Limited is an Indian multinational automotive manufacturing corporation.",
+    "founded": "1945",
+    "pronunciation": "mah-HIN-drah"
+  },
+  {
+    "name": "Holden",
+    "phonemes": "hole-den",
+    "country": "Australia",
+    "description": "Holden was an Australian automobile marque.",
+    "founded": "1856",
+    "pronunciation": "HOLE-den"
+  },
+  {
+    "name": "Opel",
+    "phonemes": "oh-pel",
+    "country": "Germany",
+    "description": "Opel Automobile GmbH is a German automobile manufacturer.",
+    "founded": "1862",
+    "pronunciation": "OH-pel"
+  },
+  {
+    "name": "Rover",
+    "phonemes": "roh-ver",
+    "country": "UK",
+    "description": "Rover was a British automotive marque.",
+    "founded": "1878",
+    "pronunciation": "ROH-ver"
+  },
+  {
+    "name": "Bugatti",
+    "phonemes": "boo-gah-tee",
+    "country": "France",
+    "description": "Bugatti is a French high-performance luxury automobile manufacturer.",
+    "founded": "1909",
+    "pronunciation": "boo-GAH-tee"
+  },
+  {
+    "name": "Bentley",
+    "phonemes": "bent-lee",
+    "country": "UK",
+    "description": "Bentley Motors Limited is a British manufacturer and marketer of luxury cars and SUVs.",
+    "founded": "1919",
+    "pronunciation": "BENT-lee"
+  },
+  {
+    "name": "Aston Martin",
+    "phonemes": "as-ton mar-tin",
+    "country": "UK",
+    "description": "Aston Martin Lagonda Global Holdings plc is a British independent manufacturer of luxury sports cars and grand tourers.",
+    "founded": "1913",
+    "pronunciation": "AS-ton MAR-tin"
+  },
+  {
+    "name": "Rolls-Royce",
+    "phonemes": "rolls royce",
+    "country": "UK",
+    "description": "Rolls-Royce Motor Cars Limited is a British luxury automobile maker.",
+    "founded": "1904",
+    "pronunciation": "ROLLS ROYCE"
+  },
+  {
+    "name": "Maserati",
+    "phonemes": "mah-seh-rah-tee",
+    "country": "Italy",
+    "description": "Maserati is an Italian luxury vehicle manufacturer.",
+    "founded": "1914",
+    "pronunciation": "mah-seh-RAH-tee"
+  },
+  {
+    "name": "Pagani",
+    "phonemes": "pah-gah-nee",
+    "country": "Italy",
+    "description": "Pagani Automobili S.p.A. is an Italian manufacturer of sports and carbon fiber cars.",
+    "founded": "1992",
+    "pronunciation": "pah-GAH-nee"
+  },
+  {
+    "name": "Lotus",
+    "phonemes": "loh-tus",
+    "country": "UK",
+    "description": "Lotus Cars is a British automotive company that manufactures sports cars and racing cars.",
+    "founded": "1948",
+    "pronunciation": "LOH-tus"
+  },
+  {
+    "name": "Lincoln",
+    "phonemes": "lin-kun",
+    "country": "USA",
+    "description": "The Lincoln Motor Company is the luxury vehicle division of American automobile manufacturer Ford.",
+    "founded": "1917",
+    "pronunciation": "LIN-kun"
+  },
+  {
+    "name": "Changan",
+    "phonemes": "chan-gan",
+    "country": "China",
+    "description": "Changan Automobile is a Chinese automobile manufacturer.",
+    "founded": "1862",
+    "pronunciation": "CHAN-gan"
+  },
+  {
+    "name": "Foton",
+    "phonemes": "foh-ton",
+    "country": "China",
+    "description": "Beiqi Foton Motor Co., Ltd. is a Chinese company that designs and manufactures trucks, buses, and sport utility vehicles.",
+    "founded": "1996",
+    "pronunciation": "FOH-ton"
+  },
+  {
+    "name": "Peugeot Citroën DS",
+    "phonemes": "puh-zhoh see-troh-en dee-ess",
+    "country": "France",
+    "description": "DS Automobiles is a French luxury vehicle marque created from Citroën in 2009.",
+    "founded": "2009",
+    "pronunciation": "dee-ESS"
+  },
+  {
+    "name": "Datsun",
+    "phonemes": "dat-sun",
+    "country": "Japan",
+    "description": "Datsun is an automobile brand owned by Nissan.",
+    "founded": "1931",
+    "pronunciation": "DAT-sun"
+  },
+  {
+    "name": "Pontiac",
+    "phonemes": "pon-tee-ak",
+    "country": "USA",
+    "description": "Pontiac was a car brand that was owned, made, and sold by General Motors.",
+    "founded": "1926",
+    "pronunciation": "PON-tee-ak"
+  },
+  {
+    "name": "Saturn",
+    "phonemes": "sat-urn",
+    "country": "USA",
+    "description": "Saturn Corporation was an automobile manufacturer and marque established as a subsidiary of General Motors.",
+    "founded": "1985",
+    "pronunciation": "SAT-urn"
+  },
+  {
+    "name": "Scion",
+    "phonemes": "sigh-on",
+    "country": "Japan",
+    "description": "Scion was a marque of Toyota that debuted in 2003.",
+    "founded": "2003",
+    "pronunciation": "SIGH-on"
+  },
+  {
+    "name": "RAM",
+    "phonemes": "ram",
+    "country": "USA",
+    "description": "Ram Trucks, stylized as RAM and formerly known as the Dodge Ram, is an American brand of light to mid-weight commercial vehicles.",
+    "founded": "2010",
+    "pronunciation": "RAM"
+  },
+  {
+    "name": "Dodge",
+    "phonemes": "doj",
+    "country": "USA",
+    "description": "Dodge is an American brand of automobiles manufactured by FCA US LLC.",
+    "founded": "1900",
+    "pronunciation": "DOJ"
+  },
+  {
+    "name": "Jeep",
+    "phonemes": "jeep",
+    "country": "USA",
+    "description": "Jeep is a brand of American automobile and a division of Stellantis.",
+    "founded": "1943",
+    "pronunciation": "JEEP"
+  },
+  {
+    "name": "GMC",
+    "phonemes": "gee-em-see",
+    "country": "USA",
+    "description": "GMC is a division of the American automobile manufacturer General Motors.",
+    "founded": "1911",
+    "pronunciation": "GEE-EM-SEE"
+  },
+  {
+    "name": "Cadillac",
+    "phonemes": "kad-ih-lak",
+    "country": "USA",
+    "description": "Cadillac is a division of the American automobile manufacturer General Motors.",
+    "founded": "1902",
+    "pronunciation": "KAD-ih-lak"
+  },
+  {
+    "name": "Buick",
+    "phonemes": "byoo-ik",
+    "country": "USA",
+    "description": "Buick is a division of the American automobile manufacturer General Motors.",
+    "founded": "1899",
+    "pronunciation": "BYOO-ik"
+  },
+  {
+    "name": "Acura",
+    "phonemes": "ah-kyoo-rah",
+    "country": "Japan",
+    "description": "Acura is the luxury vehicle division of Japanese automaker Honda.",
+    "founded": "1986",
+    "pronunciation": "ah-KYOO-rah"
+  },
+  {
+    "name": "Chevrolet Camaro",
+    "phonemes": "shev-ro-lay kah-mah-roh",
+    "country": "USA",
+    "description": "The Chevrolet Camaro is a mid-size American automobile manufactured by Chevrolet.",
+    "founded": "1966",
+    "pronunciation": "kah-MAH-roh"
+  },
+  {
+    "name": "Chevrolet Corvette",
+    "phonemes": "shev-ro-lay kor-vet",
+    "country": "USA",
+    "description": "The Chevrolet Corvette, colloquially known as the 'Vette, is a two-door, two-passenger sports car manufactured and marketed by Chevrolet.",
+    "founded": "1953",
+    "pronunciation": "kor-VET"
+  },
+  {
+    "name": "Chevrolet Malibu",
+    "phonemes": "shev-ro-lay mal-ih-boo",
+    "country": "USA",
+    "description": "The Chevrolet Malibu is a mid-size car manufactured and marketed by Chevrolet.",
+    "founded": "1964",
+    "pronunciation": "mal-ih-BOO"
+  },
+  {
+    "name": "Chevrolet Spark",
+    "phonemes": "shev-ro-lay spark",
+    "country": "USA",
+    "description": "The Chevrolet Spark is a city car produced by GM Korea, originally marketed prominently as the Daewoo Matiz.",
+    "founded": "1998",
+    "pronunciation": "SPARK"
+  },
+  {
+    "name": "Dongfeng",
+    "phonemes": "dong-feng",
+    "country": "China",
+    "description": "Dongfeng Motor Corporation is a Chinese state-owned automobile manufacturer.",
+    "founded": "1969",
+    "pronunciation": "DONG-feng"
+  },
+  {
+    "name": "FAW",
+    "phonemes": "ef-ay-double-u",
+    "country": "China",
+    "description": "FAW Group Corporation is a Chinese state-owned automotive manufacturing company.",
+    "founded": "1953",
+    "pronunciation": "F-A-W"
+  },
+  {
+    "name": "Lifan",
+    "phonemes": "lee-fan",
+    "country": "China",
+    "description": "Lifan Industry is a Chinese motorcycle and automobile manufacturer.",
+    "founded": "1992",
+    "pronunciation": "LEE-fan"
+  },
+  {
+    "name": "Zotye",
+    "phonemes": "zo-tay",
+    "country": "China",
+    "description": "Zotye Auto is a privately owned Chinese automobile manufacturer.",
+    "founded": "2005",
+    "pronunciation": "ZO-tay"
+  },
+  {
+    "name": "BAIC",
+    "phonemes": "bee-ay-eye-see",
+    "country": "China",
+    "description": "BAIC Group is a Chinese state-owned enterprise and holding company of several automobile and machine manufacturers.",
+    "founded": "1958",
+    "pronunciation": "B-A-I-C"
+  },
+  {
+    "name": "JAC",
+    "phonemes": "jay-ay-see",
+    "country": "China",
+    "description": "JAC Motors is a Chinese state-owned automobile and commercial vehicle manufacturer.",
+    "founded": "1964",
+    "pronunciation": "J-A-C"
+  },
+  {
+    "name": "Brilliance",
+    "phonemes": "bri-lee-ans",
+    "country": "China",
+    "description": "Brilliance Auto Group is a Chinese automobile manufacturer.",
+    "founded": "1992",
+    "pronunciation": "BRI-lee-ans"
+  },
+  {
+    "name": "Hafei",
+    "phonemes": "ha-fay",
+    "country": "China",
+    "description": "Hafei Motor Co., Ltd. is a Chinese automaker.",
+    "founded": "1980",
+    "pronunciation": "HA-fay"
+  },
+  {
+    "name": "Haima",
+    "phonemes": "hai-mah",
+    "country": "China",
+    "description": "Haima Automobile is a Chinese automotive manufacturing company.",
+    "founded": "1992",
+    "pronunciation": "HAI-mah"
+  },
+  {
+    "name": "Soueast",
+    "phonemes": "so-east",
+    "country": "China",
+    "description": "Soueast Motor is a Chinese automobile manufacturer.",
+    "founded": "1995",
+    "pronunciation": "SO-east"
+  },
+  {
+    "name": "Wuling",
+    "phonemes": "woo-ling",
+    "country": "China",
+    "description": "Wuling Motors is a Chinese automotive company.",
+    "founded": "2007",
+    "pronunciation": "WOO-ling"
+  },
+  {
+    "name": "Baojun",
+    "phonemes": "bao-jun",
+    "country": "China",
+    "description": "Baojun is a Chinese automobile marque owned by a joint venture of General Motors and SAIC Motor.",
+    "founded": "2010",
+    "pronunciation": "BAO-jun"
+  },
+  {
+    "name": "Luxgen",
+    "phonemes": "lux-jen",
+    "country": "Taiwan",
+    "description": "Luxgen is a Taiwanese automaker.",
+    "founded": "2008",
+    "pronunciation": "LUX-jen"
+  },
+  {
+    "name": "Prodrive",
+    "phonemes": "pro-drive",
+    "country": "UK",
+    "description": "Prodrive is a British motorsport and advanced engineering group.",
+    "founded": "1984",
+    "pronunciation": "PRO-drive"
+  },
+  {
+    "name": "Morgan",
+    "phonemes": "mor-gan",
+    "country": "UK",
+    "description": "Morgan Motor Company is a British motor car manufacturer.",
+    "founded": "1910",
+    "pronunciation": "MOR-gan"
+  },
+  {
+    "name": "TVR",
+    "phonemes": "tee-vee-ar",
+    "country": "UK",
+    "description": "TVR is a British manufacturer of high-end sports cars.",
+    "founded": "1946",
+    "pronunciation": "T-V-R"
+  },
+  {
+    "name": "Vauxhall",
+    "phonemes": "voks-hall",
+    "country": "UK",
+    "description": "Vauxhall Motors is a British car brand.",
+    "founded": "1857",
+    "pronunciation": "VOKS-hall"
+  },
+  {
+    "name": "Dacia",
+    "phonemes": "da-chee-ah",
+    "country": "Romania",
+    "description": "Dacia is a Romanian car manufacturer.",
+    "founded": "1966",
+    "pronunciation": "DA-chee-ah"
+  },
+  {
+    "name": "Lada",
+    "phonemes": "lah-dah",
+    "country": "Russia",
+    "description": "Lada is a brand of cars manufactured by AvtoVAZ in Russia.",
+    "founded": "1966",
+    "pronunciation": "LAH-dah"
+  },
+  {
+    "name": "GAZ",
+    "phonemes": "gee-ay-zee",
+    "country": "Russia",
+    "description": "GAZ is a Russian automotive manufacturer.",
+    "founded": "1932",
+    "pronunciation": "G-A-Z"
+  },
+  {
+    "name": "UAZ",
+    "phonemes": "you-ay-zee",
+    "country": "Russia",
+    "description": "UAZ is a Russian automobile manufacturer.",
+    "founded": "1941",
+    "pronunciation": "U-A-Z"
+  },
+  {
+    "name": "Maruti Suzuki",
+    "phonemes": "mah-roo-tee soo-zoo-kee",
+    "country": "India",
+    "description": "Maruti Suzuki is an automobile manufacturer in India.",
+    "founded": "1981",
+    "pronunciation": "mah-ROO-tee soo-ZOO-kee"
+  },
+  {
+    "name": "Force Motors",
+    "phonemes": "force motors",
+    "country": "India",
+    "description": "Force Motors Limited is an Indian automotive manufacturer.",
+    "founded": "1958",
+    "pronunciation": "FORCE motors"
+  },
+  {
+    "name": "Hindustan Motors",
+    "phonemes": "hin-doo-stan motors",
+    "country": "India",
+    "description": "Hindustan Motors is an Indian automotive manufacturer.",
+    "founded": "1942",
+    "pronunciation": "HIN-doo-stan motors"
+  },
+  {
+    "name": "Troller",
+    "phonemes": "trol-ler",
+    "country": "Brazil",
+    "description": "Troller Veículos Especiais S/A is a Brazilian manufacturer of off-road vehicles.",
+    "founded": "1995",
+    "pronunciation": "TROL-ler"
+  },
+  {
+    "name": "Volkswagen Group",
+    "phonemes": "folks-vah-gun group",
+    "country": "Germany",
+    "description": "Volkswagen Group is a German multinational automotive manufacturing company.",
+    "founded": "1937",
+    "pronunciation": "FOLKS-vah-gun group"
+  },
+  {
+    "name": "MAN",
+    "phonemes": "em-ay-en",
+    "country": "Germany",
+    "description": "MAN SE is a German mechanical engineering company and parent company of the MAN Group.",
+    "founded": "1758",
+    "pronunciation": "M-A-N"
+  },
+  {
+    "name": "Scania",
+    "phonemes": "ska-nee-ah",
+    "country": "Sweden",
+    "description": "Scania AB is a major Swedish manufacturer of commercial vehicles.",
+    "founded": "1891",
+    "pronunciation": "SKA-nee-ah"
+  },
+  {
+    "name": "Iveco",
+    "phonemes": "ee-veh-co",
+    "country": "Italy",
+    "description": "Iveco is an Italian industrial vehicle manufacturing company.",
+    "founded": "1975",
+    "pronunciation": "ee-VEH-co"
+  },
+  {
+    "name": "Piaggio",
+    "phonemes": "pee-ah-joe",
+    "country": "Italy",
+    "description": "Piaggio is an Italian motor vehicle manufacturer.",
+    "founded": "1884",
+    "pronunciation": "pee-AH-joe"
+  },
+  {
+    "name": "Seat Cupra",
+    "phonemes": "say-aht koo-pra",
+    "country": "Spain",
+    "description": "Cupra is SEAT's performance-oriented sub-brand.",
+    "founded": "2018",
+    "pronunciation": "KOO-pra"
+  },
+  {
+    "name": "Aixam",
+    "phonemes": "ayx-am",
+    "country": "France",
+    "description": "Aixam is a French automobile manufacturer.",
+    "founded": "1983",
+    "pronunciation": "AYX-am"
+  },
+  {
+    "name": "Ligier",
+    "phonemes": "lee-zhee-ay",
+    "country": "France",
+    "description": "Ligier is a French automobile and minicar maker.",
+    "founded": "1968",
+    "pronunciation": "lee-ZHEE-ay"
+  },
+  {
+    "name": "Pininfarina",
+    "phonemes": "pee-neen-fah-ree-nah",
+    "country": "Italy",
+    "description": "Pininfarina is an Italian car design firm and coachbuilder.",
+    "founded": "1930",
+    "pronunciation": "pee-neen-fah-REE-nah"
+  },
+  {
+    "name": "Callaway",
+    "phonemes": "kal-ah-way",
+    "country": "USA",
+    "description": "Callaway Cars Inc. is an American specialty manufacturer of high-performance automobile parts.",
+    "founded": "1977",
+    "pronunciation": "KAL-ah-way"
+  },
+  {
+    "name": "Saleen",
+    "phonemes": "sah-leen",
+    "country": "USA",
+    "description": "Saleen Automotive is an American manufacturer of specialty high-performance sports cars.",
+    "founded": "1983",
+    "pronunciation": "sah-LEEN"
+  },
+  {
+    "name": "Hennessey",
+    "phonemes": "hen-ess-ee",
+    "country": "USA",
+    "description": "Hennessey Performance Engineering is an American tuning house specializing in modifying sports and super cars.",
+    "founded": "1991",
+    "pronunciation": "HEN-ess-ee"
+  },
+  {
+    "name": "Lucid",
+    "phonemes": "loo-sid",
+    "country": "USA",
+    "description": "Lucid Motors is an American electric vehicle manufacturer.",
+    "founded": "2007",
+    "pronunciation": "LOO-sid"
+  },
+  {
+    "name": "Rivian",
+    "phonemes": "riv-ee-an",
+    "country": "USA",
+    "description": "Rivian Automotive, Inc. is an American electric vehicle automaker.",
+    "founded": "2009",
+    "pronunciation": "RIV-ee-an"
+  },
+  {
+    "name": "Fisker",
+    "phonemes": "fis-ker",
+    "country": "USA",
+    "description": "Fisker Automotive is an American automotive company.",
+    "founded": "2007",
+    "pronunciation": "FIS-ker"
+  },
+  {
+    "name": "Polestar",
+    "phonemes": "pole-star",
+    "country": "Sweden",
+    "description": "Polestar is a Swedish automotive brand owned by Volvo Cars.",
+    "founded": "1996",
+    "pronunciation": "POLE-star"
+  },
+  {
+    "name": "Koenigsegg",
+    "phonemes": "ko-nig-seg",
+    "country": "Sweden",
+    "description": "Koenigsegg Automotive AB is a Swedish manufacturer of high-performance sports cars.",
+    "founded": "1994",
+    "pronunciation": "KO-nig-seg"
+  },
+  {
+    "name": "Spyker",
+    "phonemes": "spy-ker",
+    "country": "Netherlands",
+    "description": "Spyker Cars is a Dutch sports car marque.",
+    "founded": "1999",
+    "pronunciation": "SPY-ker"
+  },
+  {
+    "name": "DMC",
+    "phonemes": "dee-em-see",
+    "country": "USA",
+    "description": "DeLorean Motor Company is an American automobile manufacturer.",
+    "founded": "1975",
+    "pronunciation": "D-M-C"
+  },
+  {
+    "name": "Vector",
+    "phonemes": "vek-tor",
+    "country": "USA",
+    "description": "Vector Motors Corporation is an American automobile manufacturer.",
+    "founded": "1971",
+    "pronunciation": "VEK-tor"
+  },
+  {
+    "name": "Rossion",
+    "phonemes": "ros-ee-on",
+    "country": "USA",
+    "description": "Rossion Automotive is an American supercar manufacturer.",
+    "founded": "2007",
+    "pronunciation": "ROS-ee-on"
+  },
+  {
+    "name": "W Motors",
+    "phonemes": "double-u motors",
+    "country": "UAE",
+    "description": "W Motors is a Dubai-based car manufacturer.",
+    "founded": "2012",
+    "pronunciation": "W motors"
+  },
+  {
+    "name": "VinFast",
+    "phonemes": "vin-fast",
+    "country": "Vietnam",
+    "description": "VinFast is a Vietnamese automotive manufacturer.",
+    "founded": "2017",
+    "pronunciation": "VIN-fast"
+  },
+  {
+    "name": "Proton X70",
+    "phonemes": "pro-ton ex seventy",
+    "country": "Malaysia",
+    "description": "Proton X70 is a compact crossover SUV produced by Malaysian car manufacturer Proton.",
+    "founded": "2018",
+    "pronunciation": "ex-SEV-en-tee"
+  },
+  {
+    "name": "Perodua Myvi",
+    "phonemes": "peh-roh-doo-ah my-vee",
+    "country": "Malaysia",
+    "description": "Perodua Myvi is a subcompact car produced by Malaysian car manufacturer Perodua.",
+    "founded": "2005",
+    "pronunciation": "MY-vee"
+  }
+]

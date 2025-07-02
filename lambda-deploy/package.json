@@ -1,0 +1,12 @@
+{
+  "name": "lambda-pronunciation-corrector",
+  "version": "1.0.0",
+  "description": "AWS Lambda for pronunciation scoring with node-fetch",
+  "main": "lambda-index-working.mjs",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "uuid": "^9.0.0",
+    "aws-sdk": "^2.1481.0"
+  }
+} 

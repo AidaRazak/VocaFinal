@@ -1,0 +1,14 @@
+{
+  "name": "lambda-pronunciation-function",
+  "version": "1.0.0",
+  "description": "AWS Lambda function for pronunciation assessment with Azure integration",
+  "main": "index.mjs",
+  "type": "module",
+  "dependencies": {
+    "aws-sdk": "^2.1490.0",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
