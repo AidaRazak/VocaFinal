@@ -129,14 +129,6 @@ interface TranscriptionResult {
   brandCountry?: string;
   brandFounded?: string;
   brandImages?: string[];
-  azureDetails?: {
-    accuracyScore: number;
-    fluencyScore: number;
-    completenessScore: number;
-    overallScore: number;
-    phonemeAccuracy?: number;
-    stressPattern?: number;
-  };
   waveformComparison?: {
     userWaveform: number[];
     correctWaveform: number[];

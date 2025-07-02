@@ -124,7 +124,6 @@ interface TranscriptionResult {
   brandCountry?: string;
   brandFounded?: string;
   brandImages?: string[];
-  azureDetails?: any;
 }
 
 function normalizeBrand(str: string): string {
@@ -233,18 +232,6 @@ const FeedbackDisplay = ({ result, onTryAgain, audioUrl }: { result: Transcripti
                   <li key={index} className="text-muted-foreground">{suggestion}</li>
                 ))}
               </ul>
-            </div>
-          )}
-
-          {result.azureDetails && (
-            <div>
-              <h3 className="font-semibold mb-2">Detailed Scores:</h3>
-              <div className="grid grid-cols-2 gap-4 text-sm">
-                <div>Accuracy: {result.azureDetails.accuracyScore}%</div>
-                <div>Fluency: {result.azureDetails.fluencyScore}%</div>
-                <div>Completeness: {result.azureDetails.completenessScore}%</div>
-                <div>Overall: {result.azureDetails.overallScore}%</div>
-              </div>
             </div>
           )}
 
@@ -357,8 +344,7 @@ export default function AIFeedback() {
         brandFound: data.brandFound || !!bestMatch,
         message: data.message,
         suggestions: data.suggestions || [],
-        brandDescription: data.brandDescription,
-        azureDetails: data.azureDetails
+        brandDescription: data.brandDescription
       };
 
       console.log('Processed result:', processedResult);

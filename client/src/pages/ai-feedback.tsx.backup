@@ -38,7 +38,6 @@ interface TranscriptionResult {
   brandCountry?: string;
   brandFounded?: string;
   brandImages?: string[];
-  azureDetails?: any;
 }
 
 const allBrands: Brand[] = brandsData;
@@ -311,8 +310,7 @@ export default function AIFeedback() {
         brandFound: data.brandFound || !!findBestMatch(data.transcript),
         message: data.message,
         suggestions: data.suggestions || [],
-        brandDescription: data.brandDescription,
-        azureDetails: data.azureDetails
+        brandDescription: data.brandDescription
       };
 
       setResult(processedResult);

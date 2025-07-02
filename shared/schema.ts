@@ -37,7 +37,7 @@ export const users = pgTable("users", {
 
 // Pronunciation practice sessions
 export const practiceSessions = pgTable("practice_sessions", {
-  id: serial("id").primaryKey(),
+  id: varchar("id").primaryKey(),
   userId: varchar("user_id").notNull().references(() => users.id),
   wordPracticed: text("word_practiced").notNull(),
   accuracyScore: integer("accuracy_score"), // 0-100

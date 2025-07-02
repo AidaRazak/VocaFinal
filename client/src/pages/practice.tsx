@@ -395,11 +395,11 @@ export default function Practice() {
     }
     setIsProcessing(true);
     try {
-      console.log('Processing audio with Azure Speech Services...');
+      console.log('Processing audio...');
       const formData = new FormData();
       formData.append('audio', audioBlob, 'recording.webm');
       formData.append('brand', brandToSend);
-      const response = await fetch('/api/pronunciation/azure', {
+      const response = await fetch('/api/pronunciation', {
         method: 'POST',
         body: formData,
       });
@@ -413,7 +413,7 @@ export default function Practice() {
       }
 
       const apiResult = await response.json();
-      console.log('Azure Speech response:', apiResult);
+      console.log('API response:', apiResult);
 
       // Map the API response to our result interface
       if (!selectedBrand) {
@@ -462,8 +462,6 @@ export default function Practice() {
           errorMessage = "Network error. Please check your internet connection.";
         } else if (error.message.includes('API request failed')) {
           errorMessage = "Speech analysis service is currently unavailable. Please try again later.";
-        } else if (error.message.includes('Azure Speech credentials')) {
-          errorMessage = "Speech analysis service is not configured. Please contact support.";
         }
       }
       
